@@ -162,9 +162,11 @@ margin-left:-75px;
 }
 .box{
     height:450px;
-    border:2px solid black;
+   /*border:2px solid black;*/
     width:19%;
     border-radius:15px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
     
    
 }
@@ -273,3 +275,340 @@ margin-left:-75px;
     
 }
 
+/*styling for box6*/
+.box6 {
+    padding: 15px;
+}
+
+.box6 .small-box1,
+.box6 .small-box2,
+.box6 .small-box3,
+.box6 .small-box4 {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 40px;
+}
+
+.small-box-img {
+    height: 150px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+/*image for box6*/
+.box6 .small-box1 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box6_image1.jpg");
+}
+
+.box6 .small-box2 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box6_image2.jpg");
+}
+
+.box6 .small-box3 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box6_image3.jpg");
+}
+
+.box6 .small-box4 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box6_image4.jpg");
+}
+.box6 h2{
+    font-size:13px;
+    font-weight: normal;
+}
+.box6 > h2 {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+
+/*styling for box7*/
+.box7 {
+    padding: 15px;
+}
+
+.box7 .small-box1,
+.box7 .small-box2,
+.box7 .small-box3,
+.box7 .small-box4 {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 40px;
+}
+
+.small-box-img {
+    height: 150px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+/*image for box7*/
+.box7 .small-box1 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box7_image1.jpg");
+}
+
+.box7 .small-box2 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box7_image2.jpg");
+}
+
+.box7 .small-box3 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box7_image3.jpg");
+}
+
+.box7 .small-box4 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box7_image4.jpg");
+}
+.box7 h2{
+    font-size:13px;
+    font-weight: normal;
+}
+.box7 > h2 {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.box7 {
+    padding: 15px;
+}
+
+.box7 .small-box1,
+.box7 .small-box2,
+.box7 .small-box3,
+.box7 .small-box4 {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 40px;
+}
+
+.small-box-img {
+    height: 150px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+
+/*styling for box8*/
+.box7 {
+    padding: 15px;
+}
+
+.box8 .small-box1,
+.box8 .small-box2,
+.box8 .small-box3,
+.box8 .small-box4 {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 40px;
+}
+
+.small-box-img {
+    height: 150px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+/*image for box8*/
+.box8 .small-box1 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box8_image1.jpg");
+}
+
+.box8 .small-box2 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box8_image2.jpg");
+}
+
+.box8 .small-box3 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box8_image3.jpg");
+}
+
+.box8 .small-box4 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box8_image4.jpg");
+}
+.box8 h2{
+    font-size:13px;
+    font-weight: normal;
+}
+.box8 > h2 {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.box8 {
+    padding: 15px;
+}
+
+.box8 .small-box1,
+.box8 .small-box2,
+.box8 .small-box3,
+.box8 .small-box4 {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 40px;
+}
+
+.small-box-img {
+    height: 150px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+
+/*styling for box9*/
+.box7 {
+    padding: 15px;
+}
+
+.box9 .small-box1,
+.box9 .small-box2,
+.box9 .small-box3,
+.box9 .small-box4 {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 40px;
+}
+
+.small-box-img {
+    height: 150px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+/*image for box9*/
+.box9 .small-box1 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box9_image1.jpg");
+}
+
+.box9 .small-box2 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box9_image2.jpg");
+}
+
+.box9 .small-box3 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box9_image3.jpg");
+}
+
+.box9 .small-box4 .small-box-img {
+    background-image: url("Amazon Clone (Resources)/box9_image4.jpg");
+}
+.box9 h2{
+    font-size:13px;
+    font-weight: normal;
+}
+.box9 > h2 {
+    font-size: 21px;
+    font-weight: 700;
+}
+
+.box9 {
+    padding: 15px;
+}
+
+.box9 .small-box1,
+.box9 .small-box2,
+.box9 .small-box3,
+.box9 .small-box4 {
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 40px;
+}
+
+.small-box-img {
+    height: 150px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+.box6 > h2, /* to make all boxes in one line as because of heading in box 7 contains two line*/
+.box7 > h2,
+.box8 > h2,
+.box9 > h2 {
+    height: 42px;
+}
+.box7 h2{
+    line-height: 1;
+}
+/*footer styling*/
+footer{
+    margin-top:15px;
+}
+
+
+
+
+.foot-panel1{
+    background-color: #37475a;
+    color:white;
+    height:50px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-size: 12px;
+}
+
+.foot-panel2{
+    background-color: #222f3d;
+    color:#dddddd;
+    height:450px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+ul a{
+    display: block;
+    font-size: 14px;
+    margin-top:20px;
+    
+}
+ul p{
+    font-weight: 700;
+    color:white;
+}
+ul{
+    margin-top:30px;
+}
+.foot-panel3 {
+    background-color: #222f3d;
+    color: white;
+    border-top: 0.5px solid white;
+    height: 70px;
+     
+}
+.amazon-logo {
+    background-image: url("Amazon Clone (Resources)/amazon_logo.png");  
+    background-size: contain;
+    background-repeat: no-repeat;  /*important line*/
+    background-position: center;
+    height: 50px;
+    width: 100%;
+    
+}
+.foot-panel4{
+    background-color: #0f1111;
+    color:white;
+    
+    height:80px;
+    /* display:flex;
+    justify-content: center;
+    align-items: center;
+     */
+}
+.pages{
+font-size: 12px;
+text-align: center;
+padding-top: 25px;
+}
+.copyright{
+    font-size: 12px;
+text-align: center;
+}
